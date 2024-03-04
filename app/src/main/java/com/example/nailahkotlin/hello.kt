@@ -29,4 +29,9 @@ fun main() {
 
     biodata.displayBiodata()
 }
+
+fun isTooHot(temperature: Int) = temperature > 30
+
+fun isDirty(dirty: Int) = dirty > 30
+
 fun isSunday(day: String) = day == "Sunday"
