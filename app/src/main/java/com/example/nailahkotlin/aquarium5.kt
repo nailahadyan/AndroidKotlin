@@ -1,5 +1,3 @@
-package com.example.nailahkotlin
-
 fun main() {
     println("-- Filter --\n")
     val decorations = listOf ("rock", "pagoda", "plastic plant", "alligator", "flowerpot")
