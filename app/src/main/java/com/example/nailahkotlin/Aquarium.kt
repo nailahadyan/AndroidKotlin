@@ -1,4 +1,5 @@
 package com.example.nailahkotlin
+
 fun main() {
     println("-- Default Function --")
     swim()   // uses default speed
