@@ -29,3 +29,4 @@ fun main() {
 
     biodata.displayBiodata()
 }
+fun isSunday(day: String) = day == "Sunday"
